@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Installation of Flutter: 
+https://flutter.dev/docs/get-started/install/windows <br>
+make sure you have git bash firsts
+<br>
+## Run
+<pre><code>flutter run</code></pre>
+<br>
+for unsound null safety
+<br>
+<pre><code>flutter run -no-sound-null-safety</code></pre>
